@@ -32,8 +32,8 @@ Group by and count
 https://docs.mongodb.org/ecosystem/tutorial/ruby-mongoid-tutorial/#map-reduce
 ```
 
-###Used links
-* [](http://www.tutorialspoint.com/ruby-on-rails/rails-file-uploading.html)
-* [](http://benscheirman.com/2010/07/using-carrierwave-with-mongoid/)
-* (https://docs.mongodb.org/ecosystem/tutorial/ruby-mongoid-tutorial/#map-reduce)
+###Some of used links
+* http://www.tutorialspoint.com/ruby-on-rails/rails-file-uploading.html
+* http://benscheirman.com/2010/07/using-carrierwave-with-mongoid/
+* https://docs.mongodb.org/ecosystem/tutorial/ruby-mongoid-tutorial/#map-reduce
 
