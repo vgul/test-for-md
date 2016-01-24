@@ -17,7 +17,7 @@ When the project is complete, send it to us as Github or Bitbucket link.
 
 ### Useful command-line commands:
 
-Drop mongo database
+Drop mongo database directly:
 ```
 mongo  storages_development --eval 'db.dropDatabase()'
 ```
@@ -27,11 +27,15 @@ Retrieve all documents:
 mongo  storages_development --eval 'db.storages.find().forEach(printjson)'
 ```
 
-Group by and count 
+Group by and count:
 ```
 https://docs.mongodb.org/ecosystem/tutorial/ruby-mongoid-tutorial/#map-reduce
 ```
 
+To see chronological list of changes made to files:
+```
+find . -type f -not -wholename \*public\* -a -not -wholename \*cache\* -a -not -name \*swp -printf '%T+ %p\n' | sort | less -SX
+```
 ###Some of used links
 * http://www.tutorialspoint.com/ruby-on-rails/rails-file-uploading.html
 * http://benscheirman.com/2010/07/using-carrierwave-with-mongoid/
