@@ -37,7 +37,7 @@ To see chronological list of changes made to files:
 find . -type f -not -wholename \*public\* -a -not -wholename \*cache\* -a -not -name \*swp -printf '%T+ %p\n' | sort | less -SX
 ```
 ###Some of used links
-* http://www.tutorialspoint.com/ruby-on-rails/rails-file-uploading.html
+* http://www.tutorialspoint.com/ruby-on-rails/rails-file-uploading.htm
 * http://benscheirman.com/2010/07/using-carrierwave-with-mongoid/
 * https://docs.mongodb.org/ecosystem/tutorial/ruby-mongoid-tutorial/#map-reduce
 
