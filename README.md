@@ -2,9 +2,9 @@
 
 ##  Task
 
-Please ensure your application uses Rails 4 or 5 with HAML/SLIM as your markup language. Alternatively, you can use Sinatra or any other Ruby framework you like. The system should be as database agnostic as possible. We use PostgreSQL in production but you're free to use NoSql when and where it may be needed.
+Please ensure your application uses Rails 4 or 5 with HAML/SLIM as your markup language. Alternatively, you can use Sinatra or any other Ruby framework you like. The system should be as database agnostic as possible. We use PostgreSQL in production but you're free to use NoSql when and where it may be needed.   
 Build the application in the manner you feel most appropriate to accomplish all the tasks outlined in the specification.
-We'd appreciate your BDDness, DRYness and [KISSness](https://en.wikipedia.org/wiki/KISS_principle).
+We'd appreciate your BDDness, DRYness and [KISSness](https://en.wikipedia.org/wiki/KISS_principle).   
 When the project is complete, send it to us as Github or Bitbucket link.
 
 * User need to login on service submit a file and can see page with all his files.
