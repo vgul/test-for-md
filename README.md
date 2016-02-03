@@ -2,10 +2,6 @@
 
 
 
-
-
-
-
 ![google-autofill.png](/google-autofill.png "Here")
 ##  Task
 
